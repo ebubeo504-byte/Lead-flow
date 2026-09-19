@@ -9,4 +9,4 @@
 // keep working normally, it just won't send real inquiries anywhere.
 // ---------------------------------------------------------------------------
 
-export const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/f6bk8i6b9trvye4743xlq8gvwnq9jghs";
+export const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/adgldi4xlpk2ggbgv6cua5uuhbq9ndbi";
